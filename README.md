@@ -1,0 +1,2 @@
+# NSArrayPropertyDemo
+测试NSArray、NSMutableArray类型的属性使用copy、strong关键字，并使用NSArray、NSMutableArray类型的对象（copy、mutableCopy）给属性赋值，对属性的影响
